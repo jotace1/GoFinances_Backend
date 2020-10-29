@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jotace1/GoFinances_Backend">
-    <img src="https://github.com/jotace1/GoFinances_Backend/blob/master/src/assets/Logo.png" alt="Logo" height="80" >
+    <img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Logo.png" alt="Logo" height="80" >
   </a>
 
   <h3 align="center">GoFinances_Backend Backend</h3>
@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## :mag_right: About The Project
 <p align="center">
-<img src="https://github.com/jotace1/GoFinances_Backend/blob/master/src/assets/Capa.png" alt="Logo" width="550" height="350">
+<img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Capa.png" alt="Logo" width="550" height="350">
 </p>
 
 
