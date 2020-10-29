@@ -1,98 +1,167 @@
-<h1 align="center">
-    🚀 Database Upload
-</h1>
-<p align="center">Desafio do GoStack 13 upload de arquivos e banco de dados</p>
 
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-  <img src="https://img.shields.io/badge/node-12.13.1-green"/>
-  <!--<img src="https://img.shields.io/badge/repo%20size-2.00%20MB-informational" />-->
-  <img src="https://img.shields.io/badge/score-10.00-important" />
-  <img src="https://img.shields.io/badge/last%20commit-august-blue" />
-  <img src="https://img.shields.io/badge/license-MIT-success"/>
+  <a href="https://github.com/jotace1/GoFinances">
+    <img src="src/assets/Logo.png" alt="Logo" height="80" >
+  </a>
+
+  <h3 align="center">GoFinances</h3>
+
+  <p align="center">
+   Aplicação feita utilizando ReactJS & Typescript
+    <br />
+    <a href="https://github.com/jotace1/GoFinances"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jotace1/GoFinances">View Demo</a>
+    ·
+    <a href="https://github.com/jotace1/GoFinances/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jotace1/GoFinances/issues">Request Feature</a>
+  </p>
 </p>
 
+
+
+<!-- TABLE OF CONTENTS -->
+## 📎 Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+
+
+
+<!-- ABOUT THE PROJECT -->
+## :mag_right: About The Project
 <p align="center">
-  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando-o-back-end-servidor">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Lincença</a>
+<img src="src/assets/Capa.png" alt="Logo" width="550" height="350">
 </p>
 
-<h3 align="center"> 
-🚧  Finalizado  🚧
-</h3>
 
-### 📌 Desafio e Conhecimento
-Neste desafio, colocamos em prática os conhecimentos adquiridos durante a semana.
-Com isso, utilizamos de alguns princípios da arquitetura SOLID para montar o backend.
-Para trabalhar com o banco de dados, utilizamos o conceito de container estabelecido pelo 
-Docker e ORM (Object Relational Mapping) para manusear informações do banco.
-<br>
-Já para fazer upload de arquivo e a leitura de arquivos CSV, utilizamos um middleware de 
-upload de arquivos chamado multer e a lib csv-parse, respectivamente.
 
-### 📎 Features
+### 💻 Built With
 
-- [x] Listar Transações com o balanço das mesmas
-- [x] Cadastro de Transações
-- [x] Deleção de Transações
-- [x] Importar arquivo CSV e cadastrar as informações das transações no banco de dados
+* [ReactJS](https://pt-br.reactjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
 
-### ⚙ Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://https://yarnpkg.com/)
-Também, será necessário ter o [Docker](https://www.docker.com/) instalado e configurado em sua máquina, com um container rodando.
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+<!-- GETTING STARTED -->
+## Getting Started
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/Gabriel-Teixeira/GGoStack-Fundamentos-Nodejs
+To get a local copy up and running follow these simple steps.
 
-# Instale as dependências
-$ npm install ou yarn
+### ⚙ Prerequisites
 
-# Execute a aplicação em modo de desenvolvimento
-$ yarn dev ou npm run dev
+This is an example of how to list things you need to use the software and how to install them.
 
-# Execute os testes
-$ yarn test
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+
+* npm or yarn
+```sh
+npm install npm@latest -g
+```
+or
+```sh
+yarn
 ```
 
-* Obs: Para executar os testes, crie antes um banco de dados chamado gostack_desafio06_test.
+### 📙 Installation
 
-### 🚀 Tecnologias
+* <strong>First you must to have the backend, you can get it clicking <a href="https://github.com/jotace1/desafio-gostack-06">HERE</a></strong>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+* After you got the backend you are able to do this next steps
 
-- Node.js
-- Express
-- TypeScript
-- Jest
-- Docker
-- Postgres
+1. Clone the repo
+```sh
+git clone https://github.com/jotace1/GoFinances.git
+```
+2. Install packages
+```sh
+npm install
+```
+or
+```sh
+yarn
+```
+3. Run the app
+```sh
+yarn start
+```
 
-### 📕 Bibliotecas
 
-Esse projeto foi escrito com o auxílio das seguintes libs:
+<!-- USAGE EXAMPLES -->
+## 🚀 Usage
+After running the app, u can make income transactions and outcome transactions.
 
-- TypeORM
-- ts-node-dev
-- uuidv4
-- Prettier
-- Multer
-- csv-parse
-- Eslint
+Have fun
 
-### 📝 Licença
 
-Esse projeto está sob a licença MIT.
+## Roadmap
 
-<hr/>
+See the [open issues](https://github.com/jotace1/GoFinances/issues) for a list of proposed features (and known issues).
 
-Feito por Gabriel Teixeira
+
+
+<!-- CONTRIBUTING -->
+## 📙 Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## 📝 License
+
+Distributed under the MIT License. See `MIT` for more information.
+
+
+
+<!-- CONTACT -->
+## :calling: Contact
+
+João Carlos de Souza Castro - [Linkedin](https://www.linkedin.com/in/joaocsc/) - joaocsc01@hotmail.com
+
+Project Link: [https://github.com/jotace1/GoFinances](https://github.com/jotace1/GoFinances)
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jotace1/GoFinances.svg?style=flat-square
+[contributors-url]: https://github.com/jotace1/GoFinances/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jotace1/GoFinances.svg?style=flat-square
+[forks-url]: https://github.com/jotace1/GoFinances/network/members
+[stars-shield]: https://img.shields.io/github/stars/jotace1/GoFinances.svg?style=flat-square
+[stars-url]: https://github.com/jotace1/GoFinances/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jotace1/GoFinances.svg?style=flat-square
+[issues-url]: https://github.com/jotace1/GoFinances/issues
+[license-shield]: https://img.shields.io/github/license/jotace1/GoFinances.svg?style=flat-square
+[license-url]: https://github.com/jotace1/GoFinances/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joaocsc/
+
