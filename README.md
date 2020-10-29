@@ -14,7 +14,7 @@
     <img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Logo.png" alt="Logo" height="80" >
   </a>
 
-  <h3 align="center">GoFinances_Backend Backend</h3>
+  <h3 align="center">GoFinances Backend</h3>
 
   <p align="center">
    Aplicação feita utilizando NodeJS & Typescript
