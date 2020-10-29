@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## :mag_right: About The Project
 <p align="center">
-<img src="src/assets/Capa.png" alt="Logo" width="550" height="350">
+<img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Capa.png?raw=true" alt="Logo" width="550" height="350">
 </p>
 
 
