@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jotace1/GoFinances">
-    <img src="src/assets/Logo.png" alt="Logo" height="80" >
+    <img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Logo.png" alt="Logo" height="80" >
   </a>
 
   <h3 align="center">GoFinances</h3>
