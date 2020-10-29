@@ -10,23 +10,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jotace1/GoFinances">
-    <img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Logo.png" alt="Logo" height="80" >
+  <a href="https://github.com/jotace1/GoFinances_Backend">
+    <img src="https://github.com/jotace1/GoFinances_Backend/blob/master/src/assets/Logo.png" alt="Logo" height="80" >
   </a>
 
-  <h3 align="center">GoFinances</h3>
+  <h3 align="center">GoFinances_Backend Backend</h3>
 
   <p align="center">
-   Aplicação feita utilizando ReactJS & Typescript
+   Aplicação feita utilizando NodeJS & Typescript
     <br />
-    <a href="https://github.com/jotace1/GoFinances"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jotace1/GoFinances_Backend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jotace1/GoFinances">View Demo</a>
+    <a href="https://github.com/jotace1/GoFinances_Backend">View Demo</a>
     ·
-    <a href="https://github.com/jotace1/GoFinances/issues">Report Bug</a>
+    <a href="https://github.com/jotace1/GoFinances_Backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jotace1/GoFinances/issues">Request Feature</a>
+    <a href="https://github.com/jotace1/GoFinances_Backend/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,14 +51,14 @@
 <!-- ABOUT THE PROJECT -->
 ## :mag_right: About The Project
 <p align="center">
-<img src="https://github.com/jotace1/GoFinances/blob/master/src/assets/Capa.png?raw=true" alt="Logo" width="550" height="350">
+<img src="https://github.com/jotace1/GoFinances_Backend/blob/master/src/assets/Capa.png" alt="Logo" width="550" height="350">
 </p>
 
 
 
 ### 💻 Built With
 
-* [ReactJS](https://pt-br.reactjs.org/)
+* [NodeJS](https://nodejs.org/en/)
 * [Typescript](https://www.typescriptlang.org/)
 
 
@@ -85,13 +85,10 @@ yarn
 
 ### 📙 Installation
 
-* <strong>First you must to have the backend, you can get it clicking <a href="https://github.com/jotace1/desafio-gostack-06">HERE</a></strong>
-
-* After you got the backend you are able to do this next steps
 
 1. Clone the repo
 ```sh
-git clone https://github.com/jotace1/GoFinances.git
+git clone https://github.com/jotace1/GoFinances_Backend.git
 ```
 2. Install packages
 ```sh
@@ -103,20 +100,22 @@ yarn
 ```
 3. Run the app
 ```sh
-yarn start
+yarn dev:server
 ```
+
+* <strong>After the backend running, you can start the frontend, if you not have the FrontEnd app yet, click <a href="https://github.com/jotace1/GoFinances">HERE</a></strong>
 
 
 <!-- USAGE EXAMPLES -->
 ## 🚀 Usage
-After running the app, u can make income transactions and outcome transactions.
+After running the app, u can start the frontend
 
 Have fun
 
 
 ## Roadmap
 
-See the [open issues](https://github.com/jotace1/GoFinances/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jotace1/GoFinances_Backend/issues) for a list of proposed features (and known issues).
 
 
 
@@ -145,23 +144,23 @@ Distributed under the MIT License. See `MIT` for more information.
 
 João Carlos de Souza Castro - [Linkedin](https://www.linkedin.com/in/joaocsc/) - joaocsc01@hotmail.com
 
-Project Link: [https://github.com/jotace1/GoFinances](https://github.com/jotace1/GoFinances)
+Project Link: [https://github.com/jotace1/GoFinances_Backend](https://github.com/jotace1/GoFinances_Backend)
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jotace1/GoFinances.svg?style=flat-square
-[contributors-url]: https://github.com/jotace1/GoFinances/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jotace1/GoFinances.svg?style=flat-square
-[forks-url]: https://github.com/jotace1/GoFinances/network/members
-[stars-shield]: https://img.shields.io/github/stars/jotace1/GoFinances.svg?style=flat-square
-[stars-url]: https://github.com/jotace1/GoFinances/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jotace1/GoFinances.svg?style=flat-square
-[issues-url]: https://github.com/jotace1/GoFinances/issues
-[license-shield]: https://img.shields.io/github/license/jotace1/GoFinances.svg?style=flat-square
-[license-url]: https://github.com/jotace1/GoFinances/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/jotace1/GoFinances_Backend.svg?style=flat-square
+[contributors-url]: https://github.com/jotace1/GoFinances_Backend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jotace1/GoFinances_Backend.svg?style=flat-square
+[forks-url]: https://github.com/jotace1/GoFinances_Backend/network/members
+[stars-shield]: https://img.shields.io/github/stars/jotace1/GoFinances_Backend.svg?style=flat-square
+[stars-url]: https://github.com/jotace1/GoFinances_Backend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jotace1/GoFinances_Backend.svg?style=flat-square
+[issues-url]: https://github.com/jotace1/GoFinances_Backend/issues
+[license-shield]: https://img.shields.io/github/license/jotace1/GoFinances_Backend.svg?style=flat-square
+[license-url]: https://github.com/jotace1/GoFinances_Backend/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joaocsc/
 
